@@ -4,4 +4,4 @@
 [Follow this link]("Contribution_Setup.md")
 
 ### Basic Scraping Tutorial
-[Follow this link]("../Python Scripts/ScrapingTutorial.py")
+[Follow this link]("../Python\Scripts/ScrapingTutorial.py")
