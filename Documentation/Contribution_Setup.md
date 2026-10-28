@@ -22,6 +22,8 @@
    - For Windows: navigate to the C drive, then go to Users, your username, and create a folder (e.g. `Projects`)
    - For Mac: open Finder, go to your home folder, and create a folder (e.g. `Projects`)
    - Remember where this folder is. You will choose it as the destination when cloning the repository.
+6. Set up a ```.env``` file to hold any API keys used in the project as well as a ```.gitignore``` file. 
+   - See the guide here [API key guide]("API_Key_Safety_And_Usage.md") for setup and more details on best practices and what to do if something goes wrong!
   
 ### GitHub Basics
 **Introduction to GitHub:** GitHub is an important version control tool based on Git that helps single developers all the way up to large teams cleanly and safely work on projects. The most important feature is that it tracks all changes made over time. This is really helpful when dealing with a codebase that can be changed by many people over time. The following describe the different elements and fuctionalites you will need to use.

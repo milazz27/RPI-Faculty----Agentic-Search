@@ -5,3 +5,6 @@
 
 ### Basic Scraping Tutorial
 [Follow this link]("../Python\Scripts/ScrapingTutorial.py")
+
+### Best Practices Securing API Keys
+[Follow this link]("API_Key_Safety_And_Usage.md")
